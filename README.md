@@ -7,14 +7,12 @@ This project is a simple webpage that collects a user's name and age. It uses HT
 - **HTML5** – Creates the form and webpage structure.
 - **CSS3** – Styles the webpage.
 - **JavaScript** – Handles form submission and validates user input.
-- **localStorage** – Saves the user's name and age in the browser.
 
 ## Features
 - Input fields for name and age.
 - Form validation using `if...else`.
 - Calculates the user's age in months.
 - Displays a personalized greeting.
-- Saves user information in `localStorage`.
 - Retains saved information after refreshing the page.
 
 ## Project Files
@@ -22,7 +20,7 @@ This project is a simple webpage that collects a user's name and age. It uses HT
 ```text
 project-folder/
 ├── index.html
-├── style.css
+├── index.css
 ├── index.js
 └── README.md
 ```
@@ -38,11 +36,11 @@ project-folder/
 - Creating forms using HTML.
 - Styling webpages with CSS.
 - Using JavaScript conditions and event listeners.
-- Saving and retrieving data with `localStorage`.
 - Using Git to track project changes.
 
 ## Author
-Your Name
+MAHMOUD MOHAMED
 
 ## License
 This project is for learning and educational purposes.
+
